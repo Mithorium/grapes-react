@@ -1,3 +1,9 @@
+After cloning will probably need to run npm install
+use npm run build to compile into the html/css/js package, located in the /build directory
+for the demo, I symlinked django's /static to /build/static, and also templates/index.html symlinked directly to /build/index.html
+
+--
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
